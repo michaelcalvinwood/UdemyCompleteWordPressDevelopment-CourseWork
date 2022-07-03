@@ -27,9 +27,6 @@
             "text": true,
             "link": true,
             "custom": true,
-            "duotone": [
-                { "slug": "u-pink-sunset", "colors": ["#112245e", "#dc4379"], "name": "Udemy Pink Sunset"}
-            ],
             "defaultGradients": false,
             "gradients": [
                 {
@@ -62,10 +59,7 @@
                 }
             },
             "core/cover": {
-                "color": {
-                    "duotone": [],
-                    "customDuotone": false
-                }
+               
             },
             "core/preformatted": {
                 "typography": {
