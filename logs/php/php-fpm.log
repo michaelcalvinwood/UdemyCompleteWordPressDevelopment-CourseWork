@@ -15,3 +15,8 @@
 [02-Jul-2022 19:56:21] NOTICE: exiting, bye-bye!
 [03-Jul-2022 10:20:39] NOTICE: fpm is running, pid 1063
 [03-Jul-2022 10:20:39] NOTICE: ready to handle connections
+[03-Jul-2022 12:31:03] NOTICE: Terminating ...
+[03-Jul-2022 12:31:03] NOTICE: Terminating ...
+[03-Jul-2022 12:31:03] NOTICE: exiting, bye-bye!
+[03-Jul-2022 12:34:25] NOTICE: fpm is running, pid 1070
+[03-Jul-2022 12:34:25] NOTICE: ready to handle connections
