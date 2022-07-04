@@ -14,3 +14,6 @@ License URI: https://udemy.com
 Text domain: udemy
 */
 
+* {
+    --wp--style--block-gap: 0rem;
+}

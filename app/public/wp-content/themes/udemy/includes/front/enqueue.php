@@ -1,10 +1,14 @@
 <?php
 
 function u_enqueue () {
-    // good practice to register styles before enqueuing them
+    // good practice to register styles before enqueuing them.
+
+    // use null as the 4th parameter to prevent wordpress from chaning the url
     wp_register_style(
         'u_font-rubik_and_pacifico',
-        'https://fonts.googleapis.com/css2?family=Pacifico&family=Rubik:wght@300;400;500;700&display=swap'
+        'https://fonts.googleapis.com/css2?family=Pacifico&family=Rubik:wght@300;400;500;700&display=swap',
+        [],
+        null
     );
 
     wp_register_style(
